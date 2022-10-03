@@ -1,0 +1,6 @@
+package entities;
+
+class BaseTank 
+{
+    
+}
